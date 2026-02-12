@@ -57,7 +57,5 @@ Models are evaluated using:
 - Spearman Rank Correlation
 - Top-N Finish Accuracy (Top 12 / Top 24)
 
----
 
-## 🗂 Project Structure
 
